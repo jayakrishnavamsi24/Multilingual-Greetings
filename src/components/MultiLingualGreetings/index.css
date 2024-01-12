@@ -1,0 +1,23 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  height: 100vh;
+  font-family: 'Roboto';
+  padding: 50px;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  padding-left: 0px;
+  width: 280px;
+}
+
+img {
+    width: 200px;
+    margin-top: 20px;
+}
